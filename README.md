@@ -15,9 +15,6 @@ A simple Python chatbot that interacts with users through text-based conversatio
 
 ## Repository Structure
 
-## Repository Structure
-
-```text
 CodeAlpha-Python-Internship/
 │
 ├── README.md
