@@ -32,7 +32,7 @@ CodeAlpha-Python-Internship/
     ├── chatbot.py
     └── README.md
 
-## Technologies Used
+ Technologies Used
 - Python
 - VS Code
 - GitHub
