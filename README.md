@@ -15,14 +15,21 @@ A simple Python chatbot that interacts with users through text-based conversatio
 
 ## Repository Structure
 
+## Repository Structure
+
+```text
 CodeAlpha-Python-Internship/
+│
 ├── README.md
+│
 ├── Task-1-Hangman/
 │   ├── hangman.py
 │   └── README.md
+│
 ├── Task-2-Stock-Portfolio/
 │   ├── stock_portfolio.py
 │   └── README.md
+│
 └── Task-3-Chatbot/
     ├── chatbot.py
     └── README.md
